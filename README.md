@@ -1,0 +1,2 @@
+# mySql-Latest-home-work-
+create a database for a real estate company. In the database you must create a table of houses and a table of realtors. The relationship between the tables here is one-to-many.Every real estate agent should have: ID, name, seniority and phone. Each home should have: ID, number of rooms, number of balconies, age, price, and ID of a real estate agent. Next, you need to create a function that will print for each real estate agent the most expensive home he was in charge of.
